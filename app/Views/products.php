@@ -7,16 +7,20 @@
     <title>Product Management</title>
     <style>
         body {
+
             font-family: Arial, sans-serif;
             background-color: #71989b;
             margin: 0;
             padding: 0;
+
         }
         header {
+
             background-color: #2b4f61;
             color: #fff;
             text-align: center;
             padding: 20px;
+
         }
         .container {
             max-width: 1500px;
